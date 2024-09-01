@@ -45,5 +45,5 @@
 코드를 실행하려면, Python(3.7^)이 필요합니다. 각 파일을 독립적으로 실행하여, 디자인 패턴이 어떻게 동작하는지 확인할 수 있습니다.
 
 ```bash
-python factory_method_example.py
-python abstract_factory_example.py
+python creational_pattern/factory_method.py
+python creational_pattern/abstract_factory.py
