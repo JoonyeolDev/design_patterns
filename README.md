@@ -11,7 +11,7 @@
 - [x] **추상 팩토리 패턴 (Abstract Factory Pattern)**
 - [x] **빌더 패턴 (Builder Pattern)**
 - [x] **프로토타입 패턴 (Prototype Pattern)**
-- [ ] 싱글톤 패턴 (Singleton Pattern)
+- [x] 싱글톤 패턴 (Singleton Pattern)
 
 ### 구조 패턴 (Structural Patterns)
 - [ ] 어댑터 패턴 (Adapter Pattern)
@@ -49,3 +49,4 @@ python creational_pattern/factory_method.py
 python creational_pattern/abstract_factory.py
 python creational_pattern/builder.py
 python creational_pattern/prototype.py
+python creational_pattern/thread_safe_singleton.py
