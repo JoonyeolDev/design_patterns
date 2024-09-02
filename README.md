@@ -10,7 +10,7 @@
 - [x] **팩토리 메서드 패턴 (Factory Method Pattern)**
 - [x] **추상 팩토리 패턴 (Abstract Factory Pattern)**
 - [x] **빌더 패턴 (Builder Pattern)**
-- [ ] 프로토타입 패턴 (Prototype Pattern)
+- [x] **프로토타입 패턴 (Prototype Pattern)**
 - [ ] 싱글톤 패턴 (Singleton Pattern)
 
 ### 구조 패턴 (Structural Patterns)
@@ -48,3 +48,4 @@
 python creational_pattern/factory_method.py
 python creational_pattern/abstract_factory.py
 python creational_pattern/builder.py
+python creational_pattern/prototype.py
