@@ -11,10 +11,10 @@
 - [x] **추상 팩토리 패턴 (Abstract Factory Pattern)**
 - [x] **빌더 패턴 (Builder Pattern)**
 - [x] **프로토타입 패턴 (Prototype Pattern)**
-- [x] 싱글톤 패턴 (Singleton Pattern)
+- [x] **싱글톤 패턴 (Singleton Pattern)**
 
 ### 구조 패턴 (Structural Patterns)
-- [ ] 어댑터 패턴 (Adapter Pattern)
+- [x] **어댑터 패턴 (Adapter Pattern)**
 - [ ] 브리지 패턴 (Bridge Pattern)
 - [ ] 컴포지트 패턴 (Composite Pattern)
 - [ ] 데코레이터 패턴 (Decorator Pattern)
@@ -50,3 +50,4 @@ python creational_pattern/abstract_factory.py
 python creational_pattern/builder.py
 python creational_pattern/prototype.py
 python creational_pattern/thread_safe_singleton.py
+python structural_pattern/adapter.py
