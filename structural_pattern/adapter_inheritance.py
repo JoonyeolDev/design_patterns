@@ -19,16 +19,13 @@ class Adaptee:
 
 
 
-class Adapter(Target):
+class Adapter(Target, Adaptee):
     """
-    Adapter는 Adaptee의 인터페이스를 조합(composition)을 통해 Target의 인터페이스와 호환되도록 만듭니다.
+    Adapter는 다중 상속을 통해 Adaptee의 인터페이스를 Target의 인터페이스와 호환되도록 만듭니다.
     """
-
-    def __init__(self, adaptee: Adaptee) -> None:
-        self.adaptee = adaptee
 
     def request(self) -> str:
-        return f"Adaptor: {self.adaptee.specific_request()[::-1]}"
+        return f"Adaptor: (번역됨) {self.specific_request()[::-1]}"
 
 
 
@@ -52,7 +49,7 @@ if __name__ == "__main__":
           f"Adaptee: {adaptee.specific_request()}", end="\n\n")
     
     print("클라이언트: Adapter를 통해 그것과 작동할 수 있습니다:")
-    adapter = Adapter(adaptee)
+    adapter = Adapter()
     client_code(adapter)
 
-# python structural_pattern/adapter.py
+# python structural_pattern/adapter_inheritance.py
