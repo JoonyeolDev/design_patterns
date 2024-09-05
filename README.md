@@ -15,7 +15,7 @@
 
 ### 구조 패턴 (Structural Patterns)
 - [x] **어댑터 패턴 (Adapter Pattern)**
-- [ ] 브리지 패턴 (Bridge Pattern)
+- [x] **브리지 패턴 (Bridge Pattern)**
 - [ ] 컴포지트 패턴 (Composite Pattern)
 - [ ] 데코레이터 패턴 (Decorator Pattern)
 - [ ] 퍼사드 패턴 (Facade Pattern)
@@ -51,3 +51,4 @@ python creational_pattern/builder.py
 python creational_pattern/prototype.py
 python creational_pattern/thread_safe_singleton.py
 python structural_pattern/adapter.py
+python structural_pattern/bridge.py
