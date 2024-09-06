@@ -17,7 +17,7 @@
 - [x] **어댑터 패턴 (Adapter Pattern)**
 - [x] **브리지 패턴 (Bridge Pattern)**
 - [x] **컴포지트 패턴 (Composite Pattern)**
-- [ ] 데코레이터 패턴 (Decorator Pattern)
+- [x] **데코레이터 패턴 (Decorator Pattern)**
 - [ ] 퍼사드 패턴 (Facade Pattern)
 - [ ] 플라이웨이트 패턴 (Flyweight Pattern)
 - [ ] 프록시 패턴 (Proxy Pattern)
@@ -53,3 +53,4 @@ python creational_pattern/thread_safe_singleton.py
 python structural_pattern/adapter.py
 python structural_pattern/bridge.py
 python structural_pattern/composite.py
+python structural_pattern/decorator.py
