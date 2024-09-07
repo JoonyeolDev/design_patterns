@@ -20,7 +20,7 @@
 - [x] **데코레이터 패턴 (Decorator Pattern)**
 - [x] **퍼사드 패턴 (Facade Pattern)**
 - [x] **플라이웨이트 패턴 (Flyweight Pattern)**
-- [ ] 프록시 패턴 (Proxy Pattern)
+- [x] **프록시 패턴 (Proxy Pattern)**
 
 ### 행동 패턴 (Behavioral Patterns)
 - [ ] 책임 연쇄 패턴 (Chain of Responsibility Pattern)
@@ -56,3 +56,4 @@ python structural_pattern/composite.py
 python structural_pattern/decorator.py
 python structural_pattern/facade.py
 python structural_pattern/flyweight.py
+python structural_pattern/proxy.py
