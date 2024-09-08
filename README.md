@@ -23,7 +23,7 @@
 - [x] **프록시 패턴 (Proxy Pattern)**
 
 ### 행동 패턴 (Behavioral Patterns)
-- [ ] 책임 연쇄 패턴 (Chain of Responsibility Pattern)
+- [x] **책임 연쇄 패턴 (Chain of Responsibility Pattern)**
 - [ ] 커맨드 패턴 (Command Pattern)
 - [ ] 반복자 패턴 (Iterator Pattern)
 - [ ] 중재자 패턴 (Mediator Pattern)
@@ -57,3 +57,4 @@ python structural_pattern/decorator.py
 python structural_pattern/facade.py
 python structural_pattern/flyweight.py
 python structural_pattern/proxy.py
+python behavioral_pattern/chain_of_responsibility.py
