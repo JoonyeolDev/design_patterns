@@ -25,7 +25,7 @@
 ### 행동 패턴 (Behavioral Patterns)
 - [x] **책임 연쇄 패턴 (Chain of Responsibility Pattern)**
 - [x] **커맨드 패턴 (Command Pattern)**
-- [ ] 반복자 패턴 (Iterator Pattern)
+- [x] **반복자 패턴 (Iterator Pattern)**
 - [ ] 중재자 패턴 (Mediator Pattern)
 - [ ] 메멘토 패턴 (Memento Pattern)
 - [ ] 옵저버 패턴 (Observer Pattern)
@@ -59,3 +59,4 @@ python structural_pattern/flyweight.py
 python structural_pattern/proxy.py
 python behavioral_pattern/chain_of_responsibility.py
 python behavioral_pattern/command.py
+python behavioral_pattern/iterator.py
