@@ -1,10 +1,10 @@
 # 디자인 패턴 예제 코드
 
-이 레포지토리는 디자인 패턴 학습을 목적으로 만들어졌습니다. 코드는 [Refactoring Guru](https://refactoring.guru/ko/design-patterns)에서 제공하는 Python 예제를 쉐도우 코딩(Shadow Coding)한 것입니다. 이 리포지토리의 코드는 학습과 개인적인 연습 목적으로 작성되었습니다. 
+이 레포지토리는 디자인 패턴 학습을 목적으로 만들어졌습니다. 코드는 [Refactoring Guru](https://refactoring.guru/ko/design-patterns)에서 제공하는 Python 예제를 쉐도우 코딩 한 것입니다. 이 레포지토리의 코드는 학습과 개인적인 연습 목적으로 작성되었습니다. 
 
 ## 포함된 디자인 패턴
 
-이 리포지토리에서는 디자인 패턴을 세 가지 카테고리로 나누어 학습하고 있습니다: 생성 패턴(Creational Patterns), 구조 패턴(Structural Patterns), 행동 패턴(Behavioral Patterns). 각 카테고리에 포함된 패턴들을 아래에 나열하였으며, 완료된 패턴은 체크 표시로 표시되었습니다.
+이 레포지토리에서는 디자인 패턴을 세 가지 카테고리로 나누어 학습하고 있습니다: 생성 패턴(Creational Patterns), 구조 패턴(Structural Patterns), 행동 패턴(Behavioral Patterns). 각 카테고리에 포함된 패턴들을 아래에 나열하였으며, 완료된 패턴은 체크 표시로 표시되었습니다.
 
 ### 생성 패턴 (Creational Patterns)
 - [x] **팩토리 메서드 패턴 (Factory Method Pattern)**
@@ -26,7 +26,7 @@
 - [x] **책임 연쇄 패턴 (Chain of Responsibility Pattern)**
 - [x] **커맨드 패턴 (Command Pattern)**
 - [x] **반복자 패턴 (Iterator Pattern)**
-- [ ] 중재자 패턴 (Mediator Pattern)
+- [x] **중재자 패턴 (Mediator Pattern)**
 - [ ] 메멘토 패턴 (Memento Pattern)
 - [ ] 옵저버 패턴 (Observer Pattern)
 - [ ] 상태 패턴 (State Pattern)
@@ -34,7 +34,7 @@
 - [ ] 템플릿 메서드 패턴 (Template Method Pattern)
 - [ ] 방문자 패턴 (Visitor Pattern)
 
-각 패턴이 완료될 때마다 이 목록에 체크 표시가 추가됩니다. 이 리포지토리는 지속적으로 업데이트되며, 각 패턴의 구현은 해당 이론과 코드 예시를 포함합니다.
+각 패턴이 완료될 때마다 이 목록에 체크 표시가 추가됩니다. 이 레포지토리는 지속적으로 업데이트되며, 각 패턴의 구현은 해당 이론과 코드 예시를 포함합니다.
 
 ## 참고 자료
 
@@ -60,3 +60,4 @@ python structural_pattern/proxy.py
 python behavioral_pattern/chain_of_responsibility.py
 python behavioral_pattern/command.py
 python behavioral_pattern/iterator.py
+python behavioral_pattern/mediator.py
