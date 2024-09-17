@@ -30,7 +30,7 @@
 - [x] **메멘토 패턴 (Memento Pattern)**
 - [x] **옵저버 패턴 (Observer Pattern)**
 - [x] **상태 패턴 (State Pattern)**
-- [ ] 전략 패턴 (Strategy Pattern)
+- [x] **전략 패턴 (Strategy Pattern)**
 - [ ] 템플릿 메서드 패턴 (Template Method Pattern)
 - [ ] 방문자 패턴 (Visitor Pattern)
 
@@ -64,3 +64,4 @@ python behavioral_pattern/mediator.py
 python behavioral_pattern/memento.py
 python behavioral_pattern/observer.py
 python behavioral_pattern/state.py
+python behavioral_pattern/strategy.py
