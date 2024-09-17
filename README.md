@@ -28,7 +28,7 @@
 - [x] **반복자 패턴 (Iterator Pattern)**
 - [x] **중재자 패턴 (Mediator Pattern)**
 - [x] **메멘토 패턴 (Memento Pattern)**
-- [ ] 옵저버 패턴 (Observer Pattern)
+- [x] **옵저버 패턴 (Observer Pattern)**
 - [ ] 상태 패턴 (State Pattern)
 - [ ] 전략 패턴 (Strategy Pattern)
 - [ ] 템플릿 메서드 패턴 (Template Method Pattern)
@@ -62,3 +62,4 @@ python behavioral_pattern/command.py
 python behavioral_pattern/iterator.py
 python behavioral_pattern/mediator.py
 python behavioral_pattern/memento.py
+python behavioral_pattern/observer.py
